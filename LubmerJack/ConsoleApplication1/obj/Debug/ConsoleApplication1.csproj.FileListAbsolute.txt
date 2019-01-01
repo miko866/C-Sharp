@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/miko866/Desktop/C#/projects/LubmerJack/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

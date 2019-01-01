@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/bin/Debug/A5Kontrollstruktur.exe
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/bin/Debug/A5Kontrollstruktur.pdb
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/obj/Debug/A5Kontrollstruktur.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/obj/Debug/A5Kontrollstruktur.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/obj/Debug/A5Kontrollstruktur.exe
+/Users/miko866/Desktop/C#/csbe/A5Kontrollstruktur/A5Kontrollstruktur/obj/Debug/A5Kontrollstruktur.pdb

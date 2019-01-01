@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/bin/Debug/Calculator_simple.exe
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/bin/Debug/Calculator_simple.pdb
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/obj/Debug/Calculator_simple.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/obj/Debug/Calculator_simple.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/obj/Debug/Calculator_simple.exe
+/Users/miko866/Desktop/C#/csbe/Calculator_simple/Calculator_simple/obj/Debug/Calculator_simple.pdb

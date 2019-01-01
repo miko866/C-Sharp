@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/bin/Debug/Cesar.exe
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/bin/Debug/Cesar.pdb
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/obj/Debug/Cesar.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/obj/Debug/Cesar.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/obj/Debug/Cesar.exe
+/Users/miko866/Desktop/C#/csbe/Cesar/Cesar/obj/Debug/Cesar.pdb

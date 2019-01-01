@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/bin/Debug/ChristmasTree2.exe
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/bin/Debug/ChristmasTree2.pdb
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/obj/Debug/ChristmasTree2.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/obj/Debug/ChristmasTree2.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/obj/Debug/ChristmasTree2.exe
+/Users/miko866/Desktop/C#/projects/ChristmasTree2/ChristmasTree2/obj/Debug/ChristmasTree2.pdb

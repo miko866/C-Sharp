@@ -1,0 +1,6 @@
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/bin/Debug/A4Kontrollstruktur.exe
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/bin/Debug/A4Kontrollstruktur.pdb
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/obj/Debug/A4Kontrollstruktur.csprojAssemblyReference.cache
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/obj/Debug/A4Kontrollstruktur.csproj.CoreCompileInputs.cache
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/obj/Debug/A4Kontrollstruktur.exe
+/Users/miko866/Desktop/C#/csbe/A4Kontrollstruktur/A4Kontrollstruktur/obj/Debug/A4Kontrollstruktur.pdb
